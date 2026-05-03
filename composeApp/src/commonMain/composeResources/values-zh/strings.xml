@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">柏林中餐地图</string>
+
+    <!-- Navigation -->
+    <string name="nav_map">地图</string>
+    <string name="nav_list">列表</string>
+    <string name="settings">设置</string>
+    <string name="back">返回</string>
+
+    <!-- Placeholder screens -->
+    <string name="map_coming_soon">地图视图</string>
+    <string name="list_coming_soon">列表视图</string>
+    <string name="detail_coming_soon">餐厅详情</string>
+
+    <!-- Settings -->
+    <string name="dark_mode">外观</string>
+    <string name="language">语言</string>
+    <string name="system_default">自动</string>
+    <string name="light">浅色</string>
+    <string name="dark">深色</string>
+    <string name="english">English</string>
+    <string name="chinese">中文</string>
+
+    <!-- Filters -->
+    <string name="filter_name">名称</string>
+    <string name="filter_cuisine">标签</string>
+    <string name="filter_district">街区</string>
+    <string name="filter_distance">距离</string>
+    <string name="filter_title">筛选</string>
+    <string name="filter_reset">重置</string>
+
+    <!-- Detail page -->
+    <string name="open_in_maps">在谷歌地图打开</string>
+    <string name="open_website">官方网站</string>
+    <string name="opening_hours">营业时间</string>
+    <string name="rating_count">%1$d 条评价</string>
+
+    <!-- Tag families (filter section headers) -->
+    <string name="tag_family_regional">菜系</string>
+    <string name="tag_family_format">类型</string>
+
+    <!-- Tags: regional cuisines -->
+    <string name="tag_sichuan">川菜</string>
+    <string name="tag_cantonese">粤菜</string>
+    <string name="tag_northern">北方菜</string>
+    <string name="tag_northeastern">东北菜</string>
+    <string name="tag_shanghainese">江浙沪</string>
+    <string name="tag_hunan">湘菜</string>
+    <string name="tag_xinjiang">新疆菜</string>
+    <string name="tag_taiwanese">台菜</string>
+    <string name="tag_muslim">清真</string>
+    <string name="tag_mongolian">蒙古烤肉</string>
+
+    <!-- Tag descriptions: regional cuisines -->
+    <string name="tag_sichuan_desc">麻辣鲜香，重花椒重豆瓣，西南风味的代表。</string>
+    <string name="tag_cantonese_desc">清淡鲜甜，重原味与海鲜，源自广东与香港。</string>
+    <string name="tag_northern_desc">面食为主，醋香浓郁，北方家常炖菜与面点。</string>
+    <string name="tag_northeastern_desc">大份量酸菜白肉、东北饺子，朴实顶饱。</string>
+    <string name="tag_shanghainese_desc">甜咸兼具，酱油糖色重，江浙沪的精致小菜。</string>
+    <string name="tag_hunan_desc">干香纯辣不麻，烟熏剁椒与湘式腊味。</string>
+    <string name="tag_xinjiang_desc">孜然羊肉与拉条子，西北清真，带中亚口味。</string>
+    <string name="tag_taiwanese_desc">牛肉面、卤肉饭、珍珠奶茶，台味街头与家常。</string>
+    <string name="tag_muslim_desc">清真认证的中餐馆，多为西北菜系。</string>
+    <string name="tag_mongolian_desc">自助烤肉自助餐，柏林本地发明，并非地道蒙餐。</string>
+
+    <!-- Tags: formats -->
+    <string name="tag_hotpot">火锅</string>
+    <string name="tag_bbq">烧烤</string>
+    <string name="tag_noodles">面食</string>
+    <string name="tag_dumplings">饺子</string>
+    <string name="tag_dim_sum">点心</string>
+    <string name="tag_malatang">麻辣烫</string>
+    <string name="tag_vegetarian">素食</string>
+    <string name="tag_breakfast">早餐</string>
+    <string name="tag_tea_house">茶寮</string>
+    <string name="tag_bakery">烘焙</string>
+    <string name="tag_street_food">小吃</string>
+    <string name="tag_fusion">创新中餐</string>
+
+    <!-- Tag descriptions: formats -->
+    <string name="tag_hotpot_desc">桌上自助涮锅，沸汤翻滚，多人聚餐首选。</string>
+    <string name="tag_bbq_desc">桌上或台前的烤串与烤肉。</string>
+    <string name="tag_noodles_desc">以面为主——牛肉面、刀削、biangbiang。</string>
+    <string name="tag_dumplings_desc">饺子专门——水饺、蒸饺、煎饺。</string>
+    <string name="tag_dim_sum_desc">广式茶点，推车点单的小笼蒸食。</string>
+    <string name="tag_malatang_desc">自选食材麻辣汤底现煮，便宜随性。</string>
+    <string name="tag_vegetarian_desc">全素或大量素食选择。</string>
+    <string name="tag_breakfast_desc">豆浆油条、稀饭包子，中式早餐经典。</string>
+    <string name="tag_tea_house_desc">以茶为主——普洱、乌龙，坐下细品。</string>
+    <string name="tag_bakery_desc">菠萝包、蛋挞、奶香面包等中式烘焙。</string>
+    <string name="tag_street_food_desc">快餐小吃，方便外带。</string>
+    <string name="tag_fusion_desc">现代融合，中式底子配当代呈现。</string>
+
+    <!-- District descriptions (Berlin neighbourhoods) -->
+    <string name="district_desc_mitte">柏林历史中心，博物馆岛、勃兰登堡门所在。</string>
+    <string name="district_desc_charlottenburg">老西柏林商业核心，KaDeWe 与库当步行街。</string>
+    <string name="district_desc_friedrichshain">东柏林夜生活与艺术涂鸦聚集地。</string>
+    <string name="district_desc_kreuzberg">多元文化中心，土耳其菜与酒吧林立。</string>
+    <string name="district_desc_neukoelln">移民社群与新潮餐厅夜店区域。</string>
+    <string name="district_desc_prenzlauer_berg">改造后的中产家庭区，咖啡馆与早午餐林立。</string>
+    <string name="district_desc_schoeneberg">同志社区与犹太历史并存，街道安静雅致。</string>
+    <string name="district_desc_wedding">传统工人区，正在快速 gentrify。</string>
+    <string name="district_desc_tiergarten">柏林中央公园所在，西边老使馆区。</string>
+    <string name="district_desc_moabit">施普雷河中的住宅区，移民社群比例较高。</string>
+    <string name="district_desc_pankow">中央偏东北的安静住宅区。</string>
+    <string name="district_desc_spandau">柏林最西的卫星城，自带独立感。</string>
+    <string name="district_desc_tempelhof">老 Tempelhof 机场公园所在，南边住宅区。</string>
+    <string name="district_desc_wilmersdorf">老西柏林富人区，安静绿意，伊朗社群较大。</string>
+    <string name="district_desc_steglitz">西南住宅与购物区，Schloßstraße 一带较热闹。</string>
+    <string name="district_desc_lichtenberg">东柏林老工人区，柏林最大越南社群所在。</string>
+    <string name="district_desc_marzahn">东柏林板楼住宅区，越南超市与美食广场聚集。</string>
+    <string name="district_desc_hellersdorf">柏林东侧板楼区，城市东缘。</string>
+    <string name="district_desc_reinickendorf">西北郊区，湖泊与森林环绕。</string>
+    <string name="district_desc_dahlem">自由大学所在，绿意盎然的安静住宅。</string>
+    <string name="district_desc_tegel">西北旧机场区，靠近 Tegeler See。</string>
+    <string name="district_desc_friedenau">Schöneberg 与 Steglitz 之间的安静小街区。</string>
+    <string name="district_desc_halensee">夹在 Charlottenburg 与 Wilmersdorf 间的湖边小区。</string>
+    <string name="district_desc_westend">Charlottenburg 西部，Messe 周边的高端住宅。</string>
+    <string name="district_desc_schmargendorf">Wilmersdorf 西南的安静住宅区。</string>
+    <string name="district_desc_lichterfelde">西南绿意住宅，老式别墅区。</string>
+    <string name="district_desc_lankwitz">南柏林安静住宅区。</string>
+    <string name="district_desc_britz">Neukölln 南部，Hufeisensiedlung 花园城所在。</string>
+    <string name="district_desc_mariendorf">Tempelhofer Damm 沿线的南部住宅区。</string>
+    <string name="district_desc_marienfelde">南郊住宅与轻工业混合区。</string>
+    <string name="district_desc_lichtenrade">南端边缘住宅，村落感。</string>
+    <string name="district_desc_rudow">东南边缘住宅，邻近勃兰登堡。</string>
+    <string name="district_desc_franzoesisch_buchholz">Pankow 北部，外环住宅。</string>
+    <string name="district_desc_hermsdorf">Reinickendorf 北部，湖畔绿意。</string>
+    <string name="district_desc_johannisthal">Treptow-Köpenick 东南安静住宅。</string>
+    <string name="district_desc_wittenau">Reinickendorf 北部小住宅区。</string>
+
+    <!-- Search -->
+    <string name="search_hint">搜索餐厅...</string>
+    <string name="map_loading">正在加载地图…</string>
+    <string name="all">全部</string>
+    <string name="no_results">未找到餐厅</string>
+    <string name="call_phone">拨打电话</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="icon_credits">图标致谢</string>
+    <string name="icon_credits_value">地图图标由 Freepik 提供 — Flaticon</string>
+
+    <!-- Project story section -->
+    <string name="story_title">项目故事</string>
+    <string name="story_body">「柏林中餐地图」始于一个很简单的烦恼。每次有朋友来柏林，我们都要在微信里翻出同一份餐厅推荐——照片丢了、地址忘了，还要为「哪家牛肉面最对味」争上几句。\n\n我们试过 Google Maps 收藏夹、共享 Excel、Notion 文档，但没有一个能真正承载我们想说的：在柏林，一个从小吃中餐长大的人，到底该去哪儿吃。\n\n于是有了这个项目。它是开源的、非盈利的，背后只有一个简单的念头——一家店该由真正在那里吃饭的人来描述。所有餐厅数据以 YAML 文件的形式存放在公开的 GitHub 仓库里，谁都可以阅读、Fork 或者改进。App 完全免费、没有广告，也不收集你的任何信息。\n\n说到底它是一封情书——写给那些藏在巷子里的小面馆、家庭经营的川味厨房，以及永远不会出现在 Google 推荐里的深夜饺子店。如果它帮你找到了下一家心头好，那就是这一切的意义。</string>
+
+    <!-- Contributors section -->
+    <string name="contributors_title">数据贡献者</string>
+    <string name="contributors_intro">下面的名单直接来自仓库的 git 历史——每次有人提交餐厅数据的改动时会自动刷新。如果你也贡献过却没出现在这里，欢迎提 Issue，我们会补上。</string>
+    <string name="contributors_count">%1$d 位贡献者</string>
+    <string name="contributors_empty">还没有贡献者——欢迎成为第一位！</string>
+    <string name="contributors_thanks_manmanyou">特别感谢「柏林慢慢游」团队完成了第一轮探店走访与初始数据收集，也启发了这个项目。</string>
+
+    <!-- Contribute section -->
+    <string name="contribute_title">如何贡献数据</string>
+    <string name="contribute_intro">柏林中餐地图是一个非盈利的社区项目，全靠在这里吃饭的人一起维护。每个月都有新店开业，也有老馆子搬走或关门，仅靠几个人的力量永远跟不上节奏。如果你发现一家我们还没收录的小店、一处过时的地址，或者一个再也没人接听的电话——欢迎一起把它补上。</string>
+
+    <string name="contribute_what_title">你可以分享什么</string>
+    <string name="contribute_what_1">•  还没收录的新餐厅——店名、地址，以及你记得的任何细节。</string>
+    <string name="contribute_what_2">•  需要更正的信息——已关门、改名、营业时间不对、地图坐标偏差。</string>
+    <string name="contribute_what_3">•  菜系和招牌菜的标签——川菜、粤菜、东北家常……让下一个人更快找到对口味的店。</string>
+    <string name="contribute_what_4">•  照片、一段私人笔记，或者一句可以被引用的推荐语。</string>
+
+    <string name="contribute_how_title">怎么提交</string>
+    <string name="contribute_step_1">1. 最省事——把 CSV、Excel 或 Google Sheets 发给我们，每家餐厅一行，列名随你定，剩下的整理工作我们来做。</string>
+    <string name="contribute_step_2">2. 上手版——直接到 GitHub 提 PR。餐厅数据以 YAML 文件存放在 data/restaurants 目录下，改动一个文件、发起一次变更，CI 流水线会自动同步上线。</string>
+    <string name="contribute_step_3">3. 随手版——在微信社区群里留言，或者在小红书上 @ 我们。所有线索都会被收入审核队列。</string>
+
+    <string name="contribute_after_title">提交之后</string>
+    <string name="contribute_after">每一条投稿都会经过真人审核，再用 Google Places 复核营业时间和坐标，下一次数据同步时正式上线，一般几天内可见。投稿默认匿名；如果希望出现在贡献者名单里，提交时告诉我们就好。</string>
+
+    <string name="contribute_action">前往 GitHub 项目</string>
+
+    <!-- Team section -->
+    <string name="team_title">幕后团队</string>
+    <string name="team_novawerk_name">Novawerk.io</string>
+    <string name="team_novawerk_role">产品 · 设计 · 开发</string>
+    <string name="team_novawerk_bio">Novawerk 是一个位于柏林的独立产品工作室，专注于在 AI 时代做非盈利 App。\n\n我们相信，新时代的构建者不应只把 AI 用来做能赚钱的事——更重要的是，要用今天的生产力去解决那些一直没人看见、却真实存在的场景。当一个人也能完成过去十个人的工程量时，那些没有商业模型支撑的小众需求——一份只服务某个语言群体的工具、一份本该有人整理却从没人愿意做的资料——终于可以被认真地做出来。\n\n这就是 Novawerk 在做的事。</string>
+    <string name="team_novawerk_visit">访问官网</string>
+
+    <string name="team_manmanyou_name">柏林慢慢游</string>
+    <string name="team_manmanyou_role">街区慢游 · 城市内容</string>
+    <string name="team_manmanyou_bio">「柏林慢慢游」是柏林的一个深度慢游社群，每月组织一次走访某个柏林街区（Kiez），关注它的历史、建筑、文化与典故——目前已经一步步走过 Kreuzberg、Schöneberg、Pankow、Prenzlauer Berg 等多个区。\n\n除了街区慢游，他们还系统整理出一份《200 家柏林中餐目录》——「柏林中餐地图」最初的那批数据正是来自这份目录。\n\n走访笔记和活动通告发布在小红书 @Berlin_Slowtour。</string>
+    <string name="team_manmanyou_visit">在小红书查看</string>
+</resources>
